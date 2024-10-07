@@ -7,7 +7,8 @@ Admin Features:
 Login authentication, 
 Manage products (add, update, remove, display, search), 
 Sort products by price or name, 
-Manage a shopping cart by linking to the products database and 
+Manage a shopping cart by linking to the products database.
+
 User Features: 
 
 Browse products, 
