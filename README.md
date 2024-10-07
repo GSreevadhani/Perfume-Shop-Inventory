@@ -4,12 +4,12 @@ It provides two roles: Admin and User.
 
 Admin Features:
 
-Login authentication
-Manage products (add, update, remove, display, search)
-Sort products by price or name
-Manage a shopping cart by linking to the products database
-User Features:
+Login authentication, 
+Manage products (add, update, remove, display, search), 
+Sort products by price or name, 
+Manage a shopping cart by linking to the products database and 
+User Features: 
 
-Browse products
-Add products to the cart
-View the cart and calculate total price
+Browse products, 
+Add products to the cart, 
+View the cart and calculate total price.
